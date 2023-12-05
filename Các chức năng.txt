@@ -1,0 +1,9 @@
+Đăng nhập, đăng kí (giáo viên, sinh viên)
+Giáo viên:
+Thêm, xóa, sửa câu hỏi
+
+Bộ đếm ngược
+Hiện câu hỏi, câu trả lời
+List chọn câu hỏi(chưa hoàn thành)
+Hiện thông tin sinh viên thi
+Chuyển câu hỏi trước, sau

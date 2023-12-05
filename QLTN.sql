@@ -34,6 +34,7 @@ INSERT INTO cauhoi (ID, CauHoi, CauA, CauB, CauC, CauD, DA) VALUES (1, '@CauHoi'
 select * from NguoiDung
 select * from cauhoi
 select max(ID) from cauhoi
+select * from QuanLy
 create table CauTraLoi 
 (
   
